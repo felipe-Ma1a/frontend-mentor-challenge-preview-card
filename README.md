@@ -34,8 +34,12 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/preview-card-using-flexbox-and-grid-layout-bWPZm7VvEt
+
+<br>
+
+- Live Site URL: <br>
+https://felipe-ma1a.github.io/frontend-mentor-challenge-preview-card/
 
 ## Built with
 
